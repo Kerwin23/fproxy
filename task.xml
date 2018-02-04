@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+	<task url="http://www.xicidaili.com/" useragent="" template="xici" wait="5" maxlevel="3"/>
+	<task url="https://www.kuaidaili.com/free/inha/1/" useragent="" template="kdl" wait="5" maxlevel="3"/>
+	<task url="http://www.66ip.cn/nmtq.php?getnum=300&amp;isp=0&amp;anonymoustype=0&amp;start=&amp;ports=&amp;export=&amp;ipaddress=&amp;area=0&amp;proxytype=0&amp;api=66ip" useragent="" template="66ip" wait="5" maxlevel="0"/>
+	<task url="http://www.89ip.cn/tiqv.php?sxb=&amp;tqsl=500&amp;ports=&amp;ktip=&amp;xl=on" useragent="" template="89ip" wait="5" maxlevel="3"/>
+	<task url="http://ip.seofangfa.com/" useragent="" template="seoff" wait="5" maxlevel="3"/>
+	<task url="http://www.swei360.com/free/?page=1" useragent="" template="360" wait="5" maxlevel="3"/>
+</tasks>

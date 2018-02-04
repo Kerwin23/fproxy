@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requests>
+	<request type="http" url="http://help.baidu.com/" word="百度用户服务中心" ua="Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1" max-length="1048576" />
+	<request type="http" url="http://www.qq.com/contract.shtml" word="腾讯网站服务条款" ua="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; TencentTraveler 4.0)" max-length="1048576" />
+	<request type="http" url="http://www.sina.com.cn/contactus.html" word="新浪网客户服务" ua="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2 " max-length="1048576" />
+	<request type="http" url="http://corp.sohu.com/indexcn.shtml" word="搜狐公司" ua="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36" max-length="1048576" />
+	<request type="http" url="http://corp.sogou.com/" word="搜狗公司" ua="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; LBBROWSER) " max-length="1048576" />
+	<request type="http" url="http://www.iqiyi.com/common/aboutus.html" word="爱奇艺视频" ua="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SV1; QQDownload 732; .NET4.0C; .NET4.0E; SE 2.X MetaSr 1.0) " max-length="1048576" />
+</requests>

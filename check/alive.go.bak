@@ -1,0 +1,18 @@
+package check
+
+import (
+	"fproxy/core"
+	"fproxy/store"
+)
+
+type AliveCheckWorker struct {
+	Redis *store.RedisManager
+}
+
+type AliveChecker struct {
+	Redis *store.RedisManager
+}
+
+func (a AliveChecker) CheckAll() {
+
+}
